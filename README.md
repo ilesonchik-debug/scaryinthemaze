@@ -1,6 +1,6 @@
 Privacy Policy for «Scary in the Maze»
 1. General Provisions
-This privacy policy applies to the mobile application «Scary in the Maze» (the "Application"), developed by [Your Name or Nickname] (the "Developer").
+This privacy policy applies to the mobile application «Scary in the Maze» (the "Application"), developed by WhitilArt (the "Developer").
 
 2. Collection and Use of Information
 The Application operates fully autonomously (offline) and does not collect, store, or transmit any personal or technical data of users.
